@@ -64,10 +64,3 @@ Performed in Colab using `pandas`:
 - CSV file handling with encoding fixes (`ISO-8859-1`)
 
 ---
-
-## 🧠 Author
-
-Akshitha Reddy  
-Data Analyst Internship — Task 2  
-Visualization & Storytelling using Python and Colab
-
